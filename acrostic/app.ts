@@ -1,4 +1,4 @@
-const apiQuery = 'http://api.datamuse.com/words?sp=%s????*';
+const apiQuery = 'https://api.datamuse.com/words?sp=%s????*';
 
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 

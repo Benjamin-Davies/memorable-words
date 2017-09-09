@@ -1,5 +1,5 @@
 "use strict";
-var apiQuery = 'http://api.datamuse.com/words?sp=%s????*';
+var apiQuery = 'https://api.datamuse.com/words?sp=%s????*';
 var letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 var inputs = document.getElementById('inputs');
 var output = document.getElementById('output');
