@@ -15,6 +15,17 @@ h2 {
   text-align: center;
 }
 
+section, form {
+  margin-left: 64px;
+}
+
+footer {
+  border-top: 1px solid gray;
+  font-size: 10pt;
+  padding-top: 10px;
+  text-align: center;
+}
+
 #output {
   font-size: 18pt;
   list-style: none;
@@ -23,11 +34,4 @@ h2 {
 #output b {
   font-size: 24pt;
   text-transform: uppercase;
-}
-
-footer {
-  border-top: 1px solid gray;
-  font-size: 10pt;
-  padding-top: 10px;
-  text-align: center;
 }
